@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello World!this is java web app using mmv command and updated and again updated</h2>
+<h2>Hello World!This is the java webapp for testing jenkins</h2>
 </body>
 </html>
