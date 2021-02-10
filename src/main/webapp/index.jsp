@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>CI/CD with Kubernet cluster</h2>
+<h2>CI/CD pipeline in Jenkins and deploy application in Kubernet cluster</h2>
 </body>
 </html>
